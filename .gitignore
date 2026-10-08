@@ -1,0 +1,15 @@
+# Tệp đối tượng
+*.o
+
+# Tệp thực thi
+myls
+*.out
+
+# Tệp sao lưu
+*.bak
+*~
+
+# Tệp hệ thống và IDE
+.DS_Store
+.vscode/
+.idea/
